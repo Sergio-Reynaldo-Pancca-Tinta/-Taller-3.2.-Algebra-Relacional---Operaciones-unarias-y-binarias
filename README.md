@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+[[<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -513,3 +513,4 @@
 </div>
 </body>
 </html>
+](https://sergio-reynaldo-pancca-tinta.github.io/-Taller-3.2.-Algebra-Relacional---Operaciones-unarias-y-binarias/)](https://sergio-reynaldo-pancca-tinta.github.io/-Taller-3.2.-Algebra-Relacional---Operaciones-unarias-y-binarias/)
